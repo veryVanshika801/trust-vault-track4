@@ -1,6 +1,6 @@
 # TrustVault · Track 4: Trust, but Verify
 
-> **Smart India Hackathon / Yugaantar DevForge Track 4**  
+ Yugaantar DevForge Track 4**  
 > Post-Quantum Cryptography, Identity Lifecycle & Access Control
 
 [![Tests](https://img.shields.io/badge/automated%20tests-161%2F161%20passing-10b981.svg)](#quick-start--verification)
