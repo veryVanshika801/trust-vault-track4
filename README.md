@@ -10,7 +10,7 @@
 
 ---
 
-## 📌 Project Overview :
+## 📌 Project Overview:
 
 **TrustVault** is a zero-trust access control and security operations platform built for the post-quantum era. It protects sensitive assets, enforces real-time device revocations across distributed nodes, and logs audit events to an immutable, tamper-evident ledger.
 
